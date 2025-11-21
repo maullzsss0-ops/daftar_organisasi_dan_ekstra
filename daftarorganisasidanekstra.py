@@ -29,7 +29,7 @@ def garis():
 
 def tampilkan_organisasi():
     garis()
-    print("DAFTAR ORGANISASI DI SMA ! PLOSOKLATEN")
+    print("DAFTAR ORGANISASI DAN EKSTRAKULIKULER DI SMAN 1 PLOSOKLATEN")
     garis()
     for org in organisasi_sekolah:
         print(f"- {org}")
